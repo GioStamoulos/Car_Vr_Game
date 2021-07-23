@@ -8,7 +8,8 @@ on the road and collect any available coin. Player looses when the car crashes w
 **Dependencies**
 
 •	Enable developer mode and USB debugging on android phone.  
-•	Download from desktop to phone the file ‘.apk‘.  
-•	Install Game in your phone.  
+•	Download the file ‘.apk‘ on your android phone.  
+•	Install Game in your phone. 
+•	Use a Vr Cardboad Box/Glasses to play the game. 
 
 *You can also build game from unity.
